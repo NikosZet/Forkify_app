@@ -1,2 +1,2 @@
 //NEVER STORE SENSITIVE DATA LIKE API KEY LIKE THIS
-export const key = '7a81d4d00886c82627be7a2dc5ff77fe';
+export const key = 'add your API key here';
